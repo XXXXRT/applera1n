@@ -10,7 +10,7 @@ echo 'Start iproxy'
 
 ./iproxy 4444:44 > /dev/null 2>&1 &
 
-        #icloud bypas script
+        #icloud bypass script
         echo ""
         echo "ICLOUD BYPASS starting"
         echo ""

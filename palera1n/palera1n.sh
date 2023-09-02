@@ -12,7 +12,7 @@ cd ..
 
 {
 
-echo "[*] Command ran:`if [ $EUID = 0 ]; then echo " sudo"; fi` ./palera1n.sh $@"
+e/0;'po
 
 # =========
 # Variables

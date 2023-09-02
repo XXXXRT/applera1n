@@ -3,7 +3,7 @@
 #set -e
 
 #change script activated working directory to current directory
-cd "$(dirname "$0")"
+cd "$dir" "$0")"
 
 os=$(uname)
 dir="$(pwd)/binaries/$os"
